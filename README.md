@@ -15,5 +15,5 @@ Cloud Speech-to-Text API
   Set Google Cloud credentials
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'creds.json'
 
-4. For the first code, have the video file in the same folder.
-    For the second code, have the input.txt in the same folder
+4. have the video file in the same folder.
+    
